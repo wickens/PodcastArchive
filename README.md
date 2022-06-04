@@ -5,7 +5,7 @@ A tool for downloading all episodes of a particular podcast.
 ![Example of the folder structure created by Podcast Archive](Screenshot2.png)
 
 ## Features
-1. Downloads episodes in a neat 'Show name' > 'year' > 'month' directory format format.
+1. Downloads episodes in a neat `Show name` > `year` > `month` directory format format.
 2. Will automatically skip files that have already been downloaded (unless they've since been updated)
 3. Ability to specify a date range, if you only want to download some episodes. 
 4. Downloaded files will have the creation date filesystem attribute set to match the episode's original publish date and time.
