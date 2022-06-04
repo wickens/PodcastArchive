@@ -1,5 +1,6 @@
 # Podcast Archive
 A tool for downloading all episodes of a particular podcast.
+![Podcast Archive downloading a feed](Screenshot3.png)
 ![Example of the folder structure created by Podcast Archive](Screenshot.png)
 ![Example of the folder structure created by Podcast Archive](Screenshot2.png)
 
