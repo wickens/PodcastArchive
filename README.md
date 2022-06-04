@@ -1,7 +1,7 @@
 # Podcast Archive
 A tool for downloading all episodes of a particular podcast.
 ![Example of the folder structure created by Podcast Archive](Screenshot.png)
-
+![Example of the folder structure created by Podcast Archive](Screenshot2.png)
 
 ## Features
 1. Downloads episodes in a neat Show name > year > month directory format format.
